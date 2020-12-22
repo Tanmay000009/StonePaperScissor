@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: #1d2d50;
+
+}
+
+.div2 {
+    background-color: #fcdab7;
+    height: 35rem;
+    color: #1d2d50;
+}
+
+.bigText {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 5rem;
+    margin: 0 auto;
+    color: #fcdab7;
+    padding-left: 2%;
+}
+
+.winner {
+    text-align: center;
+}
+
+.player1 {
+    display: inline;
+}
+
+.player2 {
+    display: inline;
+}
+
+.div3 {
+    text-align: center;
+}
+
+.p1 {
+    height: 20rem;
+    width: 20rem;
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
+
+.p2 {
+    height: 20rem;
+    width: 20rem;
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
+
+.vs {
+    display: inline;
+    margin-left: 15rem;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
